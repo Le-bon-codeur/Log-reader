@@ -1,0 +1,4 @@
+freeradius3,alerte-channel-1
+grande-borne,alerte-channel-2
+kartoffel,alerte-channel-3
+le-nettoyeur,alerte-channel-4

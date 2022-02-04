@@ -1,0 +1,3 @@
+log_type,title dalerte,content des alertes
+au pif,ninzve,buhbech bec
+does not have a portal,Portail innactif,Il semblerait que votre portail soit innactif depuis...
